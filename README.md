@@ -122,7 +122,7 @@ More importantly, because we can return arrays, we can use `.map` to map over
 data and return an array of elements. The code below will render two `li`
 elements just like the previous example, but this time using data from an array:
 
-```js
+```js 
 import React from 'react';
 
 const LIST = ["Hello", "Goodbye"]
